@@ -1,55 +1,64 @@
-<h1 align="left">Olá! Sejam vindos ao meu Github👋</h1>
+# 👋 Olá, eu sou o Gabriel Rodrigues Alves
 
-###
+🎯 Desenvolvedor em transição de carreira para a área de **TI**, com foco em **Python Back-end**, **automação de processos** e **sistemas orientados a dados**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-r-alves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-r-alves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Atualmente curso **Ciência da Computação** e desenvolvo projetos práticos utilizando Python, banco de dados e Linux, sempre buscando resolver problemas reais e próximos do mercado.
 
-###
+---
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+## 🚀 Sobre mim
 
-###
+- 🐍 Foco principal em **Python**
+- 🌐 Desenvolvimento de **APIs REST** com FastAPI
+- 🗄️ Experiência com **bancos de dados relacionais** (MariaDB / PostgreSQL)
+- ⚙️ Automação de processos e integração de sistemas
+- 🐧 Uso diário de **Linux**
+- 📊 Interesse em monitoramento, dados e sistemas corporativos
+- 📚 Sempre estudando e evoluindo com projetos práticos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+---
 
-###
+## 🛠️ Tecnologias & Ferramentas
 
-<h2 align="left">About me</h2>
+**Back-end**
+- Python
+- FastAPI
+- SQLAlchemy
+- Pydantic
 
-###
+**Banco de Dados**
+- MariaDB
+- PostgreSQL
+- SQL
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+**Automação & Dados**
+- Pandas
+- Scripts Python
+- Integração com APIs
+- Geração de relatórios
 
-###
+**Infra & Ferramentas**
+- Docker
+- Git & GitHub
+- Linux
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+---
 
-###
+## 🎯 Objetivo Profissional
 
-<img src="https://raw.githubusercontent.com/gabriel-r-alves/gabriel-r-alves/output/snake.svg" alt="Snake animation" />
+Atuar como **Desenvolvedor Python Júnior**, contribuindo com:
+- Desenvolvimento back-end
+- Automação de processos
+- Sistemas internos e APIs
+- Soluções eficientes e bem estruturadas
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 📫 Onde me encontrar
 
-###
+- 💼 LinkedIn: https://linkedin.com/in/gabriel-rdgs-alves
+- 🐙 GitHub: https://github.com/seu-username
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios!
