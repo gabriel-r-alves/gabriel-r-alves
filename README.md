@@ -10,7 +10,7 @@ Atualmente curso **Ciência da Computação** e desenvolvo projetos práticos ut
 
 - 🐍 Foco principal em **Python**
 - 🌐 Desenvolvimento de **APIs REST** com FastAPI
-- 🗄️ Experiência com **bancos de dados relacionais** (MariaDB / PostgreSQL)
+- 🗄️ Experiência com **bancos de dados relacionais** (MariaDB)
 - ⚙️ Automação de processos e integração de sistemas
 - 🐧 Uso diário de **Linux**
 - 📊 Interesse em monitoramento, dados e sistemas corporativos
