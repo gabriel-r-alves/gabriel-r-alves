@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Rodrigues Alves
+# 👋 Olá, eu sou o Gabriel Rodrigues
 
 🎯 Desenvolvedor em transição de carreira para a área de **TI**, com foco em **Python Back-end**, **automação de processos** e **sistemas orientados a dados**.
 
