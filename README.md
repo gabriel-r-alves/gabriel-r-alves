@@ -1,64 +1,83 @@
-# 👋 Olá, eu sou o Gabriel Rodrigues
+# 👋 Gabriel Rodrigues Alves
 
-🎯 Desenvolvedor em transição de carreira para a área de **TI**, com foco em **Python Back-end**, **automação de processos** e **sistemas orientados a dados**.
+💻 **Desenvolvedor Backend em formação (Python) com foco em sistemas, automação e integração de dados**
 
-Atualmente curso **Ciência da Computação** e desenvolvo projetos práticos utilizando Python, banco de dados e Linux, sempre buscando resolver problemas reais e próximos do mercado.
+Atualmente desenvolvendo um **sistema de monitoramento de dispositivos via SNMP**, utilizando Python, API REST e banco de dados, com foco em soluções próximas do ambiente corporativo.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Projetos em destaque
 
-- 🐍 Foco principal em **Python**
-- 🌐 Desenvolvimento de **APIs REST** com FastAPI
-- 🗄️ Experiência com **bancos de dados relacionais** (MariaDB)
-- ⚙️ Automação de processos e integração de sistemas
-- 🐧 Uso diário de **Linux**
-- 📊 Interesse em monitoramento, dados e sistemas corporativos
-- 📚 Sempre estudando e evoluindo com projetos práticos
+### 🔎 Sistema de Monitoramento de Dispositivos (SNMP)
+
+* Coleta de dados de equipamentos via SNMP
+* Armazenamento estruturado em banco de dados
+* API REST para exposição das informações
+* Estrutura modular visando escalabilidade
+
+> Projeto em evolução com foco em arquitetura e boas práticas de backend
+
+---
+
+## 🧠 Sobre mim
+
+* 🐍 Desenvolvimento backend com **Python**
+* 🌐 Construção de **APIs REST com FastAPI**
+* 🗄️ Modelagem e uso de **bancos de dados relacionais (MariaDB / PostgreSQL)**
+* ⚙️ Automação de processos e integração de sistemas
+* 🐧 Uso diário de **Linux**
+* 📊 Interesse em **monitoramento, dados e sistemas corporativos**
+* 🧱 Foco em escrever código organizado, modular e escalável
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 **Back-end**
-- Python
-- FastAPI
-- SQLAlchemy
-- Pydantic
+
+* Python
+* FastAPI
+* SQLAlchemy
+* Pydantic
 
 **Banco de Dados**
-- MariaDB
-- PostgreSQL
-- SQL
 
-**Automação & Dados**
-- Pandas
-- Scripts Python
-- Integração com APIs
-- Geração de relatórios
+* MariaDB
+* PostgreSQL
+* SQL
+
+**Automação & Integração**
+
+* Pandas
+* Scripts Python
+* Integração com APIs
+* Coleta de dados (SNMP)
 
 **Infra & Ferramentas**
-- Docker
-- Git & GitHub
-- Linux
+
+* Docker
+* Git & GitHub
+* Linux
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Python Júnior**, contribuindo com:
-- Desenvolvimento back-end
-- Automação de processos
-- Sistemas internos e APIs
-- Soluções eficientes e bem estruturadas
+Atuar como **Desenvolvedor Backend Python Júnior**, contribuindo com:
+
+* Desenvolvimento de APIs e sistemas backend
+* Automação e integração de dados
+* Construção de soluções escaláveis e bem estruturadas
+
+> Interesse futuro em **arquitetura de software e sistemas distribuídos**
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/gabriel-rdgs-alves
-- 🐙 GitHub: https://github.com/seu-username
+* 💼 LinkedIn: linkedin.com/in/gabriel-rdgs-alves
+* 🐙 GitHub: github.com/gabriel-r-alves
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios!
+⭐ Fique à vontade para explorar meus repositórios e projetos em desenvolvimento!
